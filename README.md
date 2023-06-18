@@ -37,7 +37,7 @@ ros2 launch ros2_aruco aruco_recognition.launch.py
 ```
 ros2 run ros2_aruco aruco_node
 ```
-
+running the above command as it is will help you detect the aruco marker of your choice. However, you need to edit the file arucoparams.yaml.
 ## Generating Marker Images
 
 ```
